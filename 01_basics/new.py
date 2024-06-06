@@ -1,5 +1,5 @@
-from hello_chai import chai
+from new2 import new
 
-chai("ginger tea")
+new("ginger tea")
 
 # this is comment
