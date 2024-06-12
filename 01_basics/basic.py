@@ -1,6 +1,6 @@
 print("chai aur python")
 
-def chai(n):
+def chai(n):   #this is a function
     print(n)
 
 chai("lemon tea")

@@ -1,0 +1,3 @@
+__pycache__ named folder will be created jiska mtlb hai python apne liye alg alg name rkhta hai 
+
+we will use cpython and 3.12 is the version of that .pyc shows we use cpython

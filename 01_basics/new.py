@@ -1,5 +1,3 @@
-from basic import new
+from basic import chai
 
-new("ginger tea")
-
-# this is comment
+chai("ginger tea")
