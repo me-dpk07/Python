@@ -36,3 +36,5 @@ username will be kamal
 here value of username is not changing phle memory me deepak store tha to username usko refer kr rha tha ab kamal hai to username usko refer krta h and deepak's alloted memory will be deleted
 
 ** baki sb language me memory me username store hota hai whi python me deepak and kamal store hoga 
+
+https://app.eraser.io/workspace/CXoKOLiZSB2jl9ow19TV?origin=share
